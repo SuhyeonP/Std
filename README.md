@@ -1,2 +1,4 @@
 ## STD <br/>
-this is the Develop branch
+This is std basic branch,
+* STD graphQL
+* Well...
