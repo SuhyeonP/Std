@@ -1,13 +1,13 @@
 import React from 'react';
 import { QuestionProps } from '@/interface';
-import { AnswerWrapper } from './styles';
+import { answer } from '@/qna';
+import { AnswerWrapper, Button } from './styles';
 
 const AnswerButton = ({ questionNumber }:QuestionProps):JSX.Element => (
 
   <AnswerWrapper>
-    <p>a1</p>
-    <p>a2</p>
-    <p>{questionNumber}</p>
+    <Button type='button'>{answer[questionNumber].a1}</Button>
+    <Button type='button'>{answer[questionNumber].a2}</Button>
   </AnswerWrapper>
 );
 

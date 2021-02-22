@@ -8,7 +8,7 @@ const Question = ({ questionNumber }:QuestionProps):JSX.Element => (
   <QuestionWrapper>
     Q .
     &nbsp;
-    {questionNumber || 1}
+    {questionNumber || 0}
     <QuestionStyles>
       {question[questionNumber]}
     </QuestionStyles>
