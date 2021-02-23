@@ -27,7 +27,7 @@ export const GoTest = styled.a`
   text-decoration: none;
 
   &:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
   }
 
   @media(max-width:677px){
