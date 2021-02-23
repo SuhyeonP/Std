@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,700&display=swap');
+
+@font-face {
+  font-weight: normal;
+  font-family: 'NotoSerifKR';
+  font-style: normal;
+
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NotoSerifKR.woff') format('woff');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: 'DungGeunMo';
+  font-style: normal;
+
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
+}
+
+:root {
+  --primary-color: #6a77d7;
+  --black: #000;
+  --white: #fff;
+  --light-gray: #e5e5e5;
+  --pink: #e91e63;
+  --gray: #9e9e9f;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #__next {
+  height: 100%;
+
+  background-color: #0d0d18;
+}
+
+body {
+  overflow: hidden;
+
+  color:white;
+  font-size: 12px;
+  font-family:'NotoSerifKR', Roboto, sans-serif;
+}
