@@ -5,8 +5,8 @@ import { MainTitle } from '@/component/styles';
 import { Container } from './styles';
 
 type Props = {
-  children?: ReactNode
-  title?: string
+  children: ReactNode
+  title: string
 }
 
 const DefaultLayout = ({ children, title }:Props):JSX.Element => (
