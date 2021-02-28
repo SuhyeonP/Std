@@ -12,6 +12,10 @@ const Home=()=> {
             <Link href="/victory">
                 <a>victory</a>
             </Link>
+            <br/>
+            <Link href="/victory2">
+                <a>victory2</a>
+            </Link>
         </div>
       </div>
   );
