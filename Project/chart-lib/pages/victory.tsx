@@ -21,8 +21,8 @@ const Victory=()=>{
                 <VictoryAxis
                     // tickValues specifies both the number of ticks and where
                     // they are placed on the axis
-                    tickValues={[1, 2, 3, 4]}
-                    tickFormat={["x 1", "x 2", "x 3", "x 4"]}
+                    tickValues={[1, 2, 5, 4]}
+                    tickFormat={["x1", "x2", "x3", "x4"]}
                 />
                 <VictoryAxis
                     dependentAxis

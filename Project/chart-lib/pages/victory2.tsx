@@ -1,32 +1,23 @@
-import React, {useCallback, useState} from 'react'
-import {VictoryAxis, VictoryBrushContainer, VictoryChart, VictoryLine, VictoryZoomContainer} from 'victory';
+import React, {useState} from 'react';
+import {VictoryChart, VictoryZoomContainer, VictoryLine,VictoryBrushContainer, VictoryAxis} from 'victory'
 
 interface Props{
-    selectedDomain?:Props2,
-    zoomDomain?:Props2
+    selectedDomain?:any,
+    zoomDomain?:any
 }
 
-interface Props2{
-    x:any,
-    y:any,
-}
-const arr={
-    x:[2020,1010],
-    y:[125,515]
-}
-
-const Victory2=()=>{
-    const [state,setState]=useState<Props>({selectedDomain:arr,zoomDomain:arr})
+const Victory2=()=> {
+    const [state,setState]=useState<Props>({})
 
 
-    const handleZoom=useCallback((domain)=> {
-        console.log(domain,"handle")
-        setState(prev => prev.selectedDomain=domain)
-    },[state])
+    function handleZoom(domain) {
+        console.log(domain)
+        setState({selectedDomain: domain});
+    }
 
-    const handleBrush=useCallback((domain)=> {
-        setState(prev => prev.zoomDomain=domain)
-    },[state.zoomDomain])
+    function handleBrush(domain) {
+        setState({zoomDomain: domain});
+    }
 
     return (
         <div>
@@ -38,7 +29,7 @@ const Victory2=()=>{
                     <VictoryZoomContainer responsive={false}
                                           zoomDimension="x"
                                           zoomDomain={state.zoomDomain}
-                                          onZoomDomainChange={handleZoom.bind(state.selectedDomain)}
+                                          onZoomDomainChange={handleZoom.bind(this)}
                     />
                 }
             >
@@ -68,8 +59,8 @@ const Victory2=()=>{
                 containerComponent={
                     <VictoryBrushContainer responsive={false}
                                            brushDimension="x"
-                                           brushDomain={state.zoomDomain}
-                                           onBrushDomainChange={handleBrush.bind(state)}
+                                           brushDomain={state.selectedDomain}
+                                           onBrushDomainChange={handleBrush.bind(this)}
                     />
                 }
             >
@@ -103,9 +94,6 @@ const Victory2=()=>{
             </VictoryChart>
         </div>
     );
-
-
-
 }
 
 export default Victory2;
