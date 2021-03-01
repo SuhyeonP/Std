@@ -21,7 +21,7 @@ module.exports = {
   ],
   output: {
     path: path.resolve(outPath, 'umd'),
-    filename: 'index.js',
+    filename: 'index.tsx',
     library: '@makinarocks/ui',
     libraryTarget: 'umd',
     umdNamedDefine: true,

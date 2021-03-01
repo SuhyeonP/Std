@@ -12,4 +12,6 @@ export const Button = styled.button`
 
   color:white;
   font-size:14px;
+
+  outline: none;
 `;

@@ -18,6 +18,8 @@ export const MainTitle = styled.p`
   color:white;
 
   font-size:30px;
+
+  transform: matrix3d(1);
 `;
 
 export const GoTest = styled.a`
