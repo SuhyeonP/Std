@@ -24,11 +24,9 @@ const RSP=()=>{
     const interval = useRef<number>();
     const clicked = useRef<boolean>(false);
 
-    useEffect(() => { // componentDidMount, componentDidUpdate 역할(1대1 대응은 아님)
-        console.log('다시 실행');
+    useEffect(() => {
         interval.current = window.setInterval(changeHand, 100);
-        return () => { // componentWillUnmount 역할
-            console.log('종료');
+        return () => {
             clearInterval(interval.current);
         }
     }, [imgCoord]);
