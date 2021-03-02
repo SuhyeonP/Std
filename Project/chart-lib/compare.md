@@ -11,10 +11,11 @@
     * 크기에 비해 다양한 차트 제공
     
 * [Victory](https://formidable.com/open-source/victory/guides/animations)
-    * 유연성, 깔끔한 공식문서, echarts 와 비교했을때 쓸대없는 차트가 더 적음 , event 같은경우 조금더 쉽게 공식문서에 설명되어있음
+    * 유연성, 깔끔한 공식문서, echarts 와 비교했을때 쓸대없는 차트가 더 적음 , event 같은경우 조금더 쉽게 공식문서에 설명되어있
     * 단점: 공식문서의 class 사용정도?
     * [테마적용](https://formidable.com/open-source/victory/guides/themes) 간단함.
-    
+    * [event](https://formidable.com/open-source/victory/guides/events/#external-event-mutations) 이벤트 적용
+
 * [Chart.js](https://github.com/reactchartjs/react-chartjs-2)
     * 다양한 차트 종류, 비교적 쉬워보임...
     * echarts 보다 사용량도 높음 but 느린 렌더링
