@@ -8,16 +8,18 @@
      <br/> 아래 사진과 같이 두가지를 사용못해서 한가지 차트를 구현 할 때 좋다.
       * [참고사이트](https://velog.io/@eunjin/React-Nivo-%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%9E%A5%EC%A0%90-%EB%8B%A8%EC%A0%90)
 * [React-vis](https://github.com/uber/react-vis)
-    * 크기에 비해 다양한 차트 제
+    * 크기에 비해 다양한 차트 제공
     
-* [@bit/recharts](https://bit.dev/recharts/recharts/composed-chart?example=5cebdcd93ebea5001b26cd28)
-    * 두가지 구현 가능  , but 여러데이터가 가능하지만 한 객체로 이뤄저야할거같아보임.
-
 * [Victory](https://formidable.com/open-source/victory/guides/animations)
-    * 유연성, 깔끔한 공식문서, 애니메이션에 좋은거같음
+    * 유연성, 깔끔한 공식문서, echarts 와 비교했을때 쓸대없는 차트가 더 적음 , event 같은경우 조금더 쉽게 공식문서에 설명되어있음
+    * 단점: 공식문서의 class 사용정도?
+    * [테마적용](https://formidable.com/open-source/victory/guides/themes) 간단함.
     
 * [Chart.js](https://github.com/reactchartjs/react-chartjs-2)
     * 다양한 차트 종류, 비교적 쉬워보임...
+    * echarts 보다 사용량도 높음 but 느린 렌더링
 
 * [@Visx](https://airbnb.io/visx/zoom-i)
-    * React에 친화적임 , 다양한 기능 지원
+    * React에 친화적임 , 다양한 기능 지원 
+    * 단점: 공식문서 빈약 그자체,,,
+    
