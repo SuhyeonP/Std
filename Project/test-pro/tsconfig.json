@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "src",
+    "declaration": true,
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "noImplicitAny": false,
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "jsx": "react-jsx",
+    "typeRoots": [
+      "node_modules/@types",
+      "src/types"
+    ],
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "noFallthroughCasesInSwitch": true,
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+  ],
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ]
+}
