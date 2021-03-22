@@ -34,6 +34,7 @@
       "error",
       {
         "devDependencies": [
+          ".storybook/**",
           "**/*.stories.*",
           "webpack.config.js",
           "rollup.config.js",
@@ -58,6 +59,7 @@
         "extensions": [".tsx"]
       }
     ],
+    "react/prop-types": "off",
     "react/jsx-props-no-spreading": "off",
     "space-before-blocks": "error",
     "no-shadow": "off",

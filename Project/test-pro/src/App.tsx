@@ -4,14 +4,14 @@ import {
 } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import RspImg from './components/RspImg';
-import { createAction } from '@reduxjs/toolkit';
-import { loginAction} from './saga/rootSaga';
+import { loginAction, testing } from './features/testSlicer';
 
 const App = (): JSX.Element => {
   const dispatch = useDispatch();
   useEffect(() => {
-    dispatch(loginAction());
-  }, [dispatch])
+    //dispatch(loginAction());
+    dispatch('testSlicer/testing');
+  }, [])
   return (
     <BrowserRouter>
       <>

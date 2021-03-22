@@ -8,7 +8,7 @@ import createSagaMiddleware from '@redux-saga/core';
 import rootSaga from './saga/rootSaga';
 
 const customMiddle = () => (next: Dispatch<AnyAction>) => (action: AnyAction): void => {
-  console.log("야옹", action)
+  console.log('custom middleware')
   next(action);
 };
 const sagaMiddleware = createSagaMiddleware();
@@ -22,5 +22,3 @@ const store = configureStore({
 sagaMiddleware.run(rootSaga)
 
 export default store;
-// export default store
-// module.exports = store;
