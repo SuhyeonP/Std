@@ -10,7 +10,6 @@ const App = (): JSX.Element => {
   const dispatch = useDispatch();
   useEffect(() => {
     //dispatch(loginAction());
-    dispatch('testSlicer/testing');
   }, [])
   return (
     <BrowserRouter>

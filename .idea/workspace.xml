@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cd9151e-6803-4d9a-b618-35aa2131b0c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/scissor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/hand.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/layout/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/layout/withRank.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/ranking.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/rsp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/common/webSocket.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-pro/src/features/userSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-pro/src/saga/userSaga.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/components/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/features/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/sagas/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/sagas/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/test-redux/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/gikal-mbti/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Project/gikal-mbti/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/reducers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/reducers/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/saga/testSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/saga/testSaga.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="std/basic" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pBdIjvYXSw76WaXDmdfEetC573" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/test-redux/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Project/chart-lib/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/test-redux/src/components" />
+      <recent name="$PROJECT_DIR$/Project/test-redux/src" />
+      <recent name="$PROJECT_DIR$/Project/test-redux/saga" />
+      <recent name="$PROJECT_DIR$/Project/test-redux" />
+      <recent name="$PROJECT_DIR$/Project/test-rsp/src/saga" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/test-pro/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cd9151e-6803-4d9a-b618-35aa2131b0c2" name="Default Changelist" comment="" />
+      <created>1614660340080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614660340080</updated>
+      <workItem from="1614660341803" duration="62000" />
+      <workItem from="1614660445194" duration="2872000" />
+      <workItem from="1614665028497" duration="4430000" />
+      <workItem from="1614738138671" duration="3510000" />
+      <workItem from="1615522059497" duration="136000" />
+      <workItem from="1615522298490" duration="569000" />
+      <workItem from="1615522926593" duration="5000" />
+      <workItem from="1615767976826" duration="1359000" />
+      <workItem from="1615770106996" duration="3974000" />
+      <workItem from="1615792858221" duration="468000" />
+      <workItem from="1615796199155" duration="632000" />
+      <workItem from="1615850336838" duration="1154000" />
+      <workItem from="1615880768622" duration="72000" />
+      <workItem from="1615938350919" duration="13000" />
+      <workItem from="1616374902141" duration="30927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rah?" />
+    <option name="LAST_COMMIT_MESSAGE" value="rah?" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

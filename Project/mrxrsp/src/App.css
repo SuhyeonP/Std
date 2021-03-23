@@ -1,0 +1,76 @@
+.rsp-game{
+    margin:80px auto;
+    width:700px;
+    text-align: center;
+}
+.rsp{
+    width:240px;
+    height:240px;
+}
+.rsp-img{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:60px;
+}
+
+.result{
+    padding:10px 0;
+    font-size:22px;
+}
+.score{
+    font-size:20px;
+}
+.score>span{
+    font-weight:700;
+    color:blue;
+    font-size:22px;
+    vertical-align: top;
+}
+
+.game>button{
+    margin:8px;
+    padding:4px;
+    font-size:20px;
+}
+
+table.rank-zone {
+    display:inline-block;
+    text-align:center;
+    border-collapse: collapse;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 10px;
+}
+table.rank-zone thead th {
+    width: 80px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+    background-color: #3f6883;
+    margin: 10px;
+}
+table.rank-zone tbody th {
+    width: 60px;
+    padding: 7px;
+}
+table.rank-zone td {
+    width: 100px;
+    padding: 7px;
+    vertical-align: top;
+}
+table.rank-zone .even {
+    background-color: #d0e5ee;
+}
+header{
+    display:flex;
+    padding:10px 20px;
+    justify-content: space-between;
+    background-color:#fffff3;
+    height:60px;
+}
+section{
+    display:inline-block;
+    text-align: center;
+}

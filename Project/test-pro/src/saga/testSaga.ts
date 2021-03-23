@@ -22,30 +22,30 @@ function* watchLoginUser() {
   //console.log('asdf')
   yield takeLatest(loginAction, loginUser);
 }
-function testF(){
-  console.log()
-  return "test"
-}
-
-function * testG(){
-  console.log('testG')
-  const result=yield call(testF);
-  try{
-    console.log(result,"here is saga")
-    yield put(testing())
-  }catch(err){
-    console.error(err)
-  }
-}
-
-function * testSlice(){
-  console.log('test Slice saga')
-  yield takeLatest('testSlicer/testing',testG)
-}
+// function testF(){
+//   console.log()
+//   return "test"
+// }
+//
+// function * testG(){
+//   console.log('testG')
+//   const result=yield call(testF);
+//   try{
+//     console.log(result,"here is saga")
+//     yield put(endTest('test'))
+//   }catch(err){
+//     console.error(err)
+//   }
+// }
+//
+// function * testSlice(){
+//   console.log('test Slice saga')
+//   yield takeLatest(testing,testG)
+// }
 
 export default function* testSaga():Generator<AllEffect<ForkEffect<void>>,void,unknown>{
   yield all([
     fork(watchLoginUser),
-    fork(testSlice),
+    //fork(testSlice),
   ])
 }
