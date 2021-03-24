@@ -13,10 +13,10 @@ const initialState:Init = {
 };
 
 const reducers = {
-  load: (state) => {
+  load: (state: { isLoading: boolean; }) => {
     state.isLoading = true;
   },
-  loadSuccess: (state, { payload: images }) => {
+  loadSuccess: (state: { isLoading: boolean; images: any; }, { payload: images }: any) => {
     state.isLoading = false;
     state.images = images;
   },

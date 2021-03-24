@@ -24,6 +24,7 @@ const userSlice = createSlice({
   initialState,
   reducers: {
     logOut(state, action) {
+      console.log(state, typeof state)
       state.data = null;
     },
     logInn(state,action) {

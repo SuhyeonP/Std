@@ -2,54 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd9151e-6803-4d9a-b618-35aa2131b0c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/paper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/rock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/public/scissor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/hand.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/layout/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/layout/withRank.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/ranking.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/rsp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/common/webSocket.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-pro/src/features/userSlice.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-pro/src/saga/userSaga.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/components/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/features/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/reducers/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/sagas/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/sagas/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/src/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/test-redux/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/gikal-mbti/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Project/gikal-mbti/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/reducers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/reducers/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/saga/testSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/saga/testSaga.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/mrxrsp/src/Component/hand.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/hand.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/mrxrsp/src/Component/rsp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/rsp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/mrxrsp/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Project/mrxrsp/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/features/userSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/features/userSlice.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/test-redux/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/mrxrsp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -101,16 +60,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Project/chart-lib/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Project/gikal-mbti/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/mrxrsp" />
       <recent name="$PROJECT_DIR$/Project/test-redux/src/components" />
       <recent name="$PROJECT_DIR$/Project/test-redux/src" />
       <recent name="$PROJECT_DIR$/Project/test-redux/saga" />
       <recent name="$PROJECT_DIR$/Project/test-redux" />
-      <recent name="$PROJECT_DIR$/Project/test-rsp/src/saga" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Project/test-pro/src" />
@@ -138,7 +97,10 @@
       <workItem from="1615850336838" duration="1154000" />
       <workItem from="1615880768622" duration="72000" />
       <workItem from="1615938350919" duration="13000" />
-      <workItem from="1616374902141" duration="30927000" />
+      <workItem from="1616374902141" duration="31097000" />
+      <workItem from="1616472519378" duration="18000" />
+      <workItem from="1616479387891" duration="4670000" />
+      <workItem from="1616551955942" duration="709000" />
     </task>
     <servers />
   </component>
