@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd9151e-6803-4d9a-b618-35aa2131b0c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/mrxrsp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/redux-std/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/redux-std/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/redux-std/src/redux/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/redux-std/src/redux/recipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/mrxrsp/src/Component/hand.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/hand.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/mrxrsp/src/Component/rsp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project/mrxrsp/src/Component/rsp.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/mrxrsp/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Project/mrxrsp/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/test-pro/src/features/userSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-pro/src/features/userSlice.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="std/basic" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +39,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1pBdIjvYXSw76WaXDmdfEetC573" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/mrxrsp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/redux-std" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,16 +60,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Project/gikal-mbti/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Project/web-game/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/redux-std" />
       <recent name="$PROJECT_DIR$/Project/mrxrsp" />
       <recent name="$PROJECT_DIR$/Project/test-redux/src/components" />
       <recent name="$PROJECT_DIR$/Project/test-redux/src" />
       <recent name="$PROJECT_DIR$/Project/test-redux/saga" />
-      <recent name="$PROJECT_DIR$/Project/test-redux" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Project/test-pro/src" />

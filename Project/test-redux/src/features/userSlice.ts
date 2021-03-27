@@ -1,6 +1,5 @@
 import {createSlice} from '@reduxjs/toolkit';
 import { logIn } from './user'
-import { useSelector } from 'react-redux';
 
 interface UserData{
   userId:string
