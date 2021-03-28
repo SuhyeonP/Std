@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd9151e-6803-4d9a-b618-35aa2131b0c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/redux-std/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/redux-std/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/redux-std/src/redux/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/redux-std/src/redux/recipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test-redux/src/features/userSlice.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +96,7 @@
       <workItem from="1616472519378" duration="18000" />
       <workItem from="1616479387891" duration="4670000" />
       <workItem from="1616551955942" duration="709000" />
+      <workItem from="1616896488637" duration="1933000" />
     </task>
     <servers />
   </component>
